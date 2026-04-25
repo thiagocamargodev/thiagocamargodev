@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c2ff&height=180&section=header&text=Thiago%20Camargo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,html,css,unreal,figma"/>
+</p>
 
-<!--
-**thiagocamargodev/thiagocamargodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+UI Developer com foco em Unreal Engine 5, trabalhando com criação de interfaces, sistemas de UI e arquitetura escalável em Blueprint.
+Estudante de Engenharia da Computação, com interesse em desenvolvimento de sistemas interativos, performance e organização de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocamargodev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+Contato
+--
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-camargo-622613314" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+</p>
