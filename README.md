@@ -10,13 +10,13 @@ UI Developer com foco em Unreal Engine 5, trabalhando com criação de interface
 Estudante de Engenharia da Computação, com interesse em desenvolvimento de sistemas interativos, performance e organização de código.
 
 #
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/thiagocamargodev?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/thiagocamargodev">
+</picture>
 
-<p align="center">
-  <img height="160em" src="`https://github-used-languages.vercel.app/thiagocamargodev"/>
-</p>
-
+#
 Contato
---
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-camargo-622613314" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
